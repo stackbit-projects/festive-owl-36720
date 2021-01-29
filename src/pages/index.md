@@ -281,7 +281,7 @@ sections:
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
-      - title: lorem-ipsum
+      - title: Jannet Wankle
         subtitle: lorem-ipsum
         title_align: left
         content: >-
