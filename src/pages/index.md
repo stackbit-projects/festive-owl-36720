@@ -284,8 +284,7 @@ sections:
       - title: Jannet Wankle
         subtitle: founer
         title_align: center
-        content: |
-          *
+        content: ''
         content_align: left
         actions: []
         actions_align: left
