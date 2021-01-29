@@ -285,7 +285,7 @@ sections:
         title_align: center
         image: images/hilary-ouse.jpg
         image_position: top
-    grid_cols: four
+    grid_cols: three
     align: center
     background_color: secondary
   - type: blog_feed_section
