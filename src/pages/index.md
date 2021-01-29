@@ -297,7 +297,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/hilary-ouse.jpg
-    grid_cols: three
+    grid_cols: four
     align: center
     background_color: secondary
   - type: blog_feed_section
