@@ -275,6 +275,7 @@ sections:
         subtitle: ''
         title_align: center
         image_position: top
+        image: images/dianne-ameter.jpg
       - title: Hugh Saturation
         subtitle: Developer Advocate
         title_align: center
