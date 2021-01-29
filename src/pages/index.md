@@ -271,7 +271,7 @@ sections:
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
-      - title: ''
+      - title: Betty Waterman
         subtitle: ''
         title_align: center
         image_position: top
