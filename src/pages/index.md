@@ -272,7 +272,7 @@ sections:
         image: images/gustav-purpleson.jpg
         image_position: top
       - title: Dianne Ameter
-        subtitle: Software Engineer
+        subtitle: ''
         title_align: center
         image_position: top
       - title: Hugh Saturation
