@@ -282,7 +282,7 @@ sections:
         image: images/hugh-saturation.jpg
         image_position: top
       - title: Jannet Wankle
-        subtitle: lorem-ipsum
+        subtitle: founer
         title_align: left
         content: >-
           ## Lorem ipsum
